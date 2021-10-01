@@ -1,0 +1,10 @@
+name: Jackson jq Quarkus
+description: Provide jackson-jq support to Quarkus applications
+metadata:
+  keywords:
+    - jackson
+    - jq
+#  guide: ...
+#  categories:
+#    - "miscellaneous"
+#  status: "preview"
